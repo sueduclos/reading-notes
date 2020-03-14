@@ -1,3 +1,5 @@
+[Home Page](https://sueduclos.github.io/reading-notes/)
+
 ## Class 01 Reading
 
 ### Discussion Questions:

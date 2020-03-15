@@ -1,3 +1,9 @@
+[Home Page](https://sueduclos.github.io/reading-notes/)
+
+## Class 01 Reading
+
+### Discussion Questions:
+
 #### 1. What is one benefit of JavaScript not enforcing type?
 #### 2. What is one downside of JavaScript not enforcing type?
 #### 3. Should the parameters of a function be changed when the function returns? Why or why not?

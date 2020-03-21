@@ -7,3 +7,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 01 Reading - Node Ecosystem, TDD, CI/CD](https://sueduclos.github.io/reading-notes/class-01-reading)
 
 [Class 02 Reading - Classes, Inheritance, Functional Programming](https://sueduclos.github.io/reading-notes/class-02-reading)
+
+[Class 03 Reading - Data Modeling & NoSQL Databases](https://sueduclos.github.io/reading-notes/class-03-reading)

@@ -9,3 +9,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 02 Reading - Classes, Inheritance, Functional Programming](https://sueduclos.github.io/reading-notes/class-02-reading)
 
 [Class 03 Reading - Data Modeling & NoSQL Databases](https://sueduclos.github.io/reading-notes/class-03-reading)
+
+[Class 04 Reading - Advanced Mongo/Mongoose](https://sueduclos.github.io/reading-notes/class-04-reading)

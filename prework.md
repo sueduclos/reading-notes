@@ -1,3 +1,5 @@
+[Home Page](https://sueduclos.github.io/reading-notes/)
+
 # Prework
 ## Engineering Topics
 

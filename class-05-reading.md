@@ -26,11 +26,16 @@
 ### Discussion Questions:
 
 #### 1. What is a data structure?
+A data structure is a particular way of organizing data in a computer so that it can be used effectively. Data structures are the way we are able to store and retrieve data.
 
 #### 2. How is a Linked List different from an array?
+An array is the data structure that contains a collection of similar type data elements whereas the Linked list is considered as non-primitive data structure contains a collection of unordered linked elements known as nodes.
 
-#### 3. What is one benefit a Linked List has over an array?
+#### 3. What is one benefit a Linked List has over an array? 
+Ease of insertion/deletion.
  
 #### 4. What data does a `Node` hold in a doubly Linked List?
+Each Node holds a link to the next AND previous
 
 #### 5. What would you use to implement a Linked List data type? (object, function, class, variable…?)
+Linked lists are implemented by using classes. 

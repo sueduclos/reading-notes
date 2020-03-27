@@ -11,3 +11,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 03 Reading - Data Modeling & NoSQL Databases](https://sueduclos.github.io/reading-notes/class-03-reading)
 
 [Class 04 Reading - Advanced Mongo/Mongoose](https://sueduclos.github.io/reading-notes/class-04-reading)
+
+[Class 05 Reading - DSA: Linked Lists](https://sueduclos.github.io/reading-notes/class-05-reading)

@@ -18,3 +18,5 @@ Reading and class notes for 401 Advanced Software Development
 
 [Class 06 Reading - HTTP and REST](https://sueduclos.github.io/reading-notes/class-06-reading)
 
+[Class 07 Reading - Express](https://sueduclos.github.io/reading-notes/class-07-reading)
+

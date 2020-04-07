@@ -20,3 +20,5 @@ Reading and class notes for 401 Advanced Software Development
 
 [Class 07 Reading - Express](https://sueduclos.github.io/reading-notes/class-07-reading)
 
+[Class 08 Reading - Express Routing & Connected API](https://sueduclos.github.io/reading-notes/class-08-reading)
+

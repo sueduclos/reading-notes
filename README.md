@@ -25,3 +25,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 09 Reading - API Server](https://sueduclos.github.io/reading-notes/class-09-reading)
 
 [Class 10 Reading - Authentication](https://sueduclos.github.io/reading-notes/class-10-reading)
+
+[Class 11 Reading - DSA: Stacks and Queues](https://sueduclos.github.io/reading-notes/class-11-reading)

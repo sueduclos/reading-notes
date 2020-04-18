@@ -27,10 +27,13 @@ Common terminology for a queue is:
 ### Discussion Questions:
 
 #### 1. Come up with an application scenario where you would want to use a stack.
+To reverse a word. You push a given word to stack - letter by letter - and then pop letters from the stack.
 
 #### 2. Come up with an application scenario where you would want to use a queue. 
+Call Center phone systems uses Queues to hold people calling them in an order, until a service representative is free.
 
 #### 3. Why are `pop`, `push`, `enqueue` and `dequeue` always `O(1)`?
+This is done with an O(1) operation in time because it does not matter how many other items in the queue or stack; it always takes the same amount of time to perform the operation.
  
 #### 4. Why do stacks and queues not have traversal or searching operations? 
-
+Because they are mostly meant for temporary storage instead of long-term storage or traversal.

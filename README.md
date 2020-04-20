@@ -6,6 +6,9 @@ Reading and class notes for 401 Advanced Software Development
 
 [Prework Reading - Engineering Topics](https://sueduclos.github.io/reading-notes/prework)
 
+[Purpose Practice Fact Sheet](https://sueduclos.github.io/reading-notes/purpose-practice-fact-sheet.md)
+
+
 [Class 01 Reading - Node Ecosystem, TDD, CI/CD](https://sueduclos.github.io/reading-notes/class-01-reading)
 
 [Class 02 Reading - Classes, Inheritance, Functional Programming](https://sueduclos.github.io/reading-notes/class-02-reading)

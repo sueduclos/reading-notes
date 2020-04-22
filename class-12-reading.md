@@ -29,13 +29,15 @@
 It allows limited access to the user's data and allows accessing when authorization tokens expire. It has ability to share data for users without having to release personal information. It is easier to implement and provides stronger authentication.
 
 #### 2. Write the following steps in the correct order:
-    - Receive access token
-    - Redirect to a third party authentication endpoint
-    - Register your application to get a `client_id` and `client_secret`
-    - Make a request to a third-party API endpoint
+    ```
     - Ask the client if they want to sign in via a third party
+    - Redirect to a third party authentication endpoint
     - Receive authorization code
     - Make a request to the access token endpoint
+    - Receive access token
+    - Make a request to a third-party API endpoint
+    - Register your application to get a `client_id` and `client_secret` 
+    ```
     
 #### 3. What can you do with an authorization code?
 The authorization code tells us that the client/user has allowed the server to read data from the user's Google account. The authorization code is a temporary code that the client will exchange for an access token. The code itself is obtained from the authorization server where the user gets a chance to see what the information the client is requesting, and approve or deny the request.

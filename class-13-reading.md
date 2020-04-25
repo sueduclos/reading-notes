@@ -20,7 +20,10 @@
 ### Discussion Questions:
 
 #### 1. When is Basic Authorization used vs. Bearer Authorization? 
+Need to research more.
 
 #### 2. What does the JSON Web Token package do?
+JSON Web Token is a standard used to create access tokens for an application. The server generates a token that certifies the user identity, and sends it to the client.
 
 #### 3. What considerations should we make when creating and storing a `SECRET`? 
+While we've been referring to tokens as encrypted strings, JWTs are not as fully secure as a standard encrypted string using an encryption algorithm. So there is still a slight risk that the content encrypted could be hacked into. Because of this, we try not to put any sensitive user data (such as a password) into the JWT. Typically, the server only stores either the user's unique username, or the id of the user record within the server's database.

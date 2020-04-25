@@ -32,3 +32,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 11 Reading - DSA: Stacks and Queues](https://sueduclos.github.io/reading-notes/class-11-reading)
 
 [Class 12 Reading - OAuth](https://sueduclos.github.io/reading-notes/class-12-reading)
+
+[Class 13 Reading - Bearer Authorization](https://sueduclos.github.io/reading-notes/class-13-reading)

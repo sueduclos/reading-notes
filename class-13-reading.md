@@ -20,7 +20,7 @@
 ### Discussion Questions:
 
 #### 1. When is Basic Authorization used vs. Bearer Authorization? 
-Need to research more.
+Basic Authorization involves the user sending their username/password over the internet each time, or through the OAuth process. Bearer Authorization allows the server to create an encrypted "bearer" token instead for the user to send.
 
 #### 2. What does the JSON Web Token package do?
 JSON Web Token is a standard used to create access tokens for an application. The server generates a token that certifies the user identity, and sends it to the client.

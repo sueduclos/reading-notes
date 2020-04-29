@@ -34,3 +34,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 12 Reading - OAuth](https://sueduclos.github.io/reading-notes/class-12-reading)
 
 [Class 13 Reading - Bearer Authorization](https://sueduclos.github.io/reading-notes/class-13-reading)
+
+[Class 14 Reading - Access Control (ACL)](https://sueduclos.github.io/reading-notes/class-14-reading)

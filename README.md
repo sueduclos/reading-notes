@@ -36,3 +36,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 13 Reading - Bearer Authorization](https://sueduclos.github.io/reading-notes/class-13-reading)
 
 [Class 14 Reading - Access Control (ACL)](https://sueduclos.github.io/reading-notes/class-14-reading)
+
+[Class 15 Reading - DSA Trees)](https://sueduclos.github.io/reading-notes/class-15-reading)

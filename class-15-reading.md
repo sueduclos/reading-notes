@@ -46,4 +46,6 @@ post-order: post-order output of tree nodes
 A “perfect” binary tree is one where every non-leaf node has exactly two children. The maximum width for a perfect binary tree, is 2^(h-1), where h is the height of the tree. Height can be calculated as log n, where n is the number of nodes.
 
 #### 4. How are stacks and queues used in relation to trees? 
-TBD
+Depth first traversal: The most common way to traverse through a tree is to use recursion. With these traversals, we rely on the call `stack`to navigate back up the tree.
+
+Breath first traversal: Traditionally, breadth first traversal uses a `queue` (instead of a call stack) to traverse the width/breadth of the tree.

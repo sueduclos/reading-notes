@@ -13,22 +13,21 @@
                                                
 
 ### Vocabulary
-| Term                    | Definition |
-| ----------------------- | ---------- |
-| tree                    |            |
-| binary tree             |            |
-| root                    |            |
-| parent                  |            |
-| child                   |            |
-| edge                    |            |
-| height                  |            |
-| left child              |            |
-| right child             |            |
-| Depth-First Traversal   |            |
-| Breadth-First Traversal |            |
-| recursion               |            |
-| binary search tree      |            |
-| k-ary tree              |            |
+- Term                   
+-  tree                                
+- binary tree                         
+- root                                
+- parent                              
+- child                               
+- edge                                
+- height                              
+- left child                          
+- right child                         
+- Depth-First Traversal               
+- Breadth-First Traversal             
+- recursion                           
+- binary search tree      
+- k-ary tree              
 
 ### Discussion Questions:
 

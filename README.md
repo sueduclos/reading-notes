@@ -38,3 +38,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 14 Reading - Access Control (ACL)](https://sueduclos.github.io/reading-notes/class-14-reading)
 
 [Class 15 Reading - DSA: Trees](https://sueduclos.github.io/reading-notes/class-15-reading)
+
+[Class 16 Reading - Event Driven Applications](https://sueduclos.github.io/reading-notes/class-16-reading)

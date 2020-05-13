@@ -28,5 +28,5 @@ Bidirectional means two-way. It is useful because, its capable of both sending a
 Yes. The HTTP layer is to ensure that the connection between the client and server is kept active and authenticated.
 
 #### 3. What happens when a client emits an event? What happens when a server emits an event? 
-Client emits event - 
-Server emits event -
+- Client emits event - data is sent to the server
+- Server emits event - data is sent to all the sockets

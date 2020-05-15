@@ -44,3 +44,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 17 Reading - TCP Server](https://sueduclos.github.io/reading-notes/class-17-reading)
 
 [Class 18 Reading - Socket.io](https://sueduclos.github.io/reading-notes/class-18-reading)
+
+[Class 19 Reading - TBD](https://sueduclos.github.io/reading-notes/class-19-reading)

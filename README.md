@@ -45,4 +45,4 @@ Reading and class notes for 401 Advanced Software Development
 
 [Class 18 Reading - Socket.io](https://sueduclos.github.io/reading-notes/class-18-reading)
 
-[Class 19 Reading - TBD](https://sueduclos.github.io/reading-notes/class-19-reading)
+[Class 19 Reading - Message Queues](https://sueduclos.github.io/reading-notes/class-19-reading)

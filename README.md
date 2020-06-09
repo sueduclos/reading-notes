@@ -48,3 +48,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 19 Reading - Message Queues](https://sueduclos.github.io/reading-notes/class-19-reading)
 
 [Class 21 Reading - Component Based UI](https://sueduclos.github.io/reading-notes/class-21-reading)
+
+[Class 22 Reading - React Testing and Development](https://sueduclos.github.io/reading-notes/class-22-reading)

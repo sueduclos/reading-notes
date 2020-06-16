@@ -14,11 +14,14 @@
 ### Discussion Questions:
 
 #### 1. Why do we not need more `.html` pages in a multi-page React app? 
+The `react-router-dom` allows us to render components on a page based on the browser URL.
 
 #### 2. If we wanted a component to show up on every page, where would we put it and why?
    - Outside the `<BrowserRouter/>`
    - Inside the `<BrowserRouter />`, outside a `<Route />`
    - Inside a `<Route />`
+
+I believe we would use the Inside the `<BrowserRouter />`, outside a `<Route />` option. 
    
 #### 3. What does `props.children` contain? 
 Whatever you include between the opening and closing tags when invoking a component.

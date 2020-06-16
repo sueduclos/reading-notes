@@ -52,3 +52,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 22 Reading - React Testing and Development](https://sueduclos.github.io/reading-notes/class-22-reading)
 
 [Class 23 Reading - Props and State](https://sueduclos.github.io/reading-notes/class-23-reading)
+
+[Class 24 Reading - Routing and Component Composition](https://sueduclos.github.io/reading-notes/class-24-reading)

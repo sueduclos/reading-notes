@@ -54,3 +54,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 23 Reading - Props and State](https://sueduclos.github.io/reading-notes/class-23-reading)
 
 [Class 24 Reading - Routing and Component Composition](https://sueduclos.github.io/reading-notes/class-24-reading)
+
+[Class 25 Reading - DSA: HashTables](https://sueduclos.github.io/reading-notes/class-25-reading)

@@ -58,3 +58,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 25 Reading - DSA: HashTables](https://sueduclos.github.io/reading-notes/class-25-reading)
 
 [Class 26 Reading - Hooks API](https://sueduclos.github.io/reading-notes/class-26-reading)
+
+[Class 27 Reading - Custom Hooks](https://sueduclos.github.io/reading-notes/class-27-reading)

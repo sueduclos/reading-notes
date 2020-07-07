@@ -62,3 +62,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 27 Reading - Custom Hooks](https://sueduclos.github.io/reading-notes/class-27-reading)
 
 [Class 28 Reading - Context API](https://sueduclos.github.io/reading-notes/class-28-reading)
+
+[Class 29 Reading - Application State with Redux](https://sueduclos.github.io/reading-notes/class-29-reading)

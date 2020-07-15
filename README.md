@@ -66,3 +66,5 @@ Reading and class notes for 401 Advanced Software Development
 [Class 29 Reading - Application State with Redux](https://sueduclos.github.io/reading-notes/class-29-reading)
 
 [Class 30 Reading - DSA: Graphs](https://sueduclos.github.io/reading-notes/class-30-reading)
+
+[Class 31 Reading - Redux - Combined Reducers](https://sueduclos.github.io/reading-notes/class-31-reading)

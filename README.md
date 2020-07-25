@@ -73,3 +73,5 @@ Reading and class notes for 401 Advanced Software Development
 
 [Class 33 Reading - Redux - Additional Topics](https://sueduclos.github.io/reading-notes/class-33-reading)
 
+[Class 34 Reading - React Native](https://sueduclos.github.io/reading-notes/class-34-reading)
+
